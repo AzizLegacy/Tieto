@@ -1,3 +1,4 @@
 printf ("Powstalem z przegladarki");
 
+int x;
 printf("Dodano z NowaGalaz: %d", 0);
